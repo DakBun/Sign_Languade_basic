@@ -52,10 +52,10 @@ git clone https://github.com/Kousujo/Project-JAVA-Team-7.git
 
 ### Bước 2: Tạo nhánh làm việc cá nhân
 
-Tuyệt đối không code trực tiếp trên nhánh `main`. Mỗi người tự tạo nhánh riêng:
+Tuyệt đối không code trực tiếp trên nhánh `main`. 
 
 ```bash
-git checkout -b dev-<tên_thành_viên>
+git checkout -b dev-<tên>
 # Ví dụ: git checkout -b dev-tuan
 ```
 
